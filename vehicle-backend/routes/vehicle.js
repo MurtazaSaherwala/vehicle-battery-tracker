@@ -1,5 +1,5 @@
 import express from "express";
-import Vehicle from "../models/vehicle.js";
+import Vehicle from "../models/Vehicle.js";
 import authMiddleware from "../middleware/auth.js";
 
 const router = express.Router();
