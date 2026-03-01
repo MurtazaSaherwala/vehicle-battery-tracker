@@ -7,6 +7,23 @@ This application allows users to securely register, log in, and manage vehicle b
 This project was developed as a capstone implementation focusing on authentication, protected routes, ownership-based data modeling, and full-stack integration.
 
 ---
+## 🎥 Lecture Recordings
+
+**Morning Session Recording:**  
+🔗 https://www.youtube.com/watch?v=dnn6cKhymy8
+
+**Afternoon Session Recording:**  
+🔗 https://www.youtube.com/watch?v=fi3TBTZCVyM
+
+---
+
+**Morning Session Recording:**  
+🔗 https://www.youtube.com/watch?v=wo67jkxt1jc
+
+**Afternoon Session Recording:**  
+🔗 https://www.youtube.com/watch?v=XHrDGC6p-Zg
+
+---
 
 ## 🚀 Features
 
